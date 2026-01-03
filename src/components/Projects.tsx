@@ -9,60 +9,60 @@ const Projects = () => {
 
   const projects = [
     {
-      title: "TUTOR - LMS Platform",
-      description: "TUTOR is a powerful and feature-rich Learning Management System (LMS) thoughtfully engineered to redefine the online education experience for both students and educators.",
-      longDescription: "TUTOR is a powerful and feature-rich Learning Management System (LMS) thoughtfully engineered to redefine the online education experience for both students and educators. Designed with flexibility, performance, and user experience at its core, TUTOR provides a seamless platform for managing courses, tracking progress, delivering assessments, and fostering engagement in a virtual learning environment. Built with modern technologies like React, Next.js, and Tailwind CSS, TUTOR offers a fully responsive and accessible user interface that performs beautifully across all devices—from desktop to mobile. The application architecture ensures high performance and scalability, while the design system supports clean, intuitive navigation that keeps users focused on learning, not clicking around. For robust and centralized state management, TUTOR integrates Redux, allowing for real-time updates, efficient data handling, and a fluid experience as users interact with dynamic components such as live class sessions, quizzes, dashboards, and discussion forums. Educators can easily create and manage multimedia-rich course content, monitor student activity, and evaluate performance through customizable grading tools. Meanwhile, students benefit from a personalized learning journey, with access to structured lesson plans, progress tracking, assignment submission, and peer interaction. Whether you're a school, university, corporate training team, or independent instructor, TUTOR is built to scale with your needs, offering modular features, secure authentication, role-based access, and future-ready architecture to support integrations like video conferencing, gamification, and AI-based learning analytics. With TUTOR, online education isn’t just easier—it’s smarter, more engaging, and built for the digital age.",
-      image: "/mockup 6.png",
-      tags: ["React", "TailwindCSS", "NodeJs", "ExpressJS", "MongoDB", "NextJS", "Vercel", "Docker", "Backblaze", "CI/CD"],
+      title: "True Crime Channel — Strategic Growth & Monetization",
+      description: "Despite strong production quality and consistent publishing, this true crime channel was effectively invisible to the algorithm, averaging just 90–100 views per video with 200 subscribers and no realistic path to monetization.",
+      longDescription: "Despite strong production quality and consistent publishing, this true crime channel was effectively invisible to the algorithm, averaging just 90–100 views per video with 200 subscribers and no realistic path to monetization. A strategic audit revealed that the issue was not content quality, but structural inefficiencies: topic selection was not informed by demand or competition, video packaging failed to convert impressions into clicks, and there was no SEO or discovery infrastructure to surface content through search or recommendations. We rebuilt the channel around algorithm-aligned fundamentals, implementing data-driven topic validation, curiosity-optimized titles and thumbnails tailored to true crime audience behavior, and a comprehensive SEO framework designed to drive long-term organic traffic. A repeatable execution system was introduced to ensure consistency and sustainability. As a result, two videos surpassed 30,000 organic views, subscriber count increased from 200 to 800 within months, average views per video increased by 300×, and the channel transitioned from guesswork-driven publishing to a predictable, scalable growth system.",
+      image: "/crime .jpeg",
+      tags: ["YouTube Automation", "True Crime Niche", "Topic Research & Validation", "CTR Optimization", "Thumbnail Strategy", "SEO & Discovery", "Algorithmic Growth", "Organic Traffic Scaling", "Monetization Strategy", "System-Based Growth"],
       demoUrl: "http://tutorinc.co/",
       githubUrl: "#"
     },
     {
-      title: "AI Auto Parts – Auto Parts Management SaaS",
-      description: "Auto Parts is a comprehensive, feature-rich SaaS platform built on the powerful MERN stack, specifically designed to streamline and optimize the operations of auto parts warehouses",
-      longDescription: "Auto Parts is a comprehensive, feature-rich SaaS platform built on the powerful MERN stack—MongoDB, Express.js, React, and Node.js—specifically designed to streamline and optimize the operations of auto parts warehouses, retailers, and distributors. Tailored for the automotive supply chain, it simplifies complex workflows such as inventory tracking, order processing, and warehouse logistics through an intuitive and responsive interface. Businesses can manage everything from stock levels and supplier data to purchase orders, invoices, and customer interactions in real time using a centralized, cloud-based system accessible from any device. The platform includes essential modules like intelligent inventory management with barcode scanning and low-stock alerts, seamless order fulfillment, supplier and customer CRM tools, and robust reporting with actionable sales and performance analytics. Role-based access controls ensure secure multi-user collaboration, while flexible integrations with shipping carriers, ERP software, and e-commerce platforms allow for scalable, end-to-end automation. Whether serving a local parts shop or a multi-location distributor, Auto Parts provides a reliable and scalable foundation to manage, grow, and future-proof automotive operations efficiently.",
-      image: "/mockup 8 1.png",
-      tags: ["ReactJS", "TypeScript", "TailwindCSS", "NodeJS", "ExpressJS", "MongoDB", "NextJS", "Vercel", "Docker", "Backblaze", "CI/CD"],
+      title: "Psychology Channel — Viral Breakthrough & Revenue Acceleration",
+      description: "With 10,000 subscribers already in place, this psychology channel appeared established but had reached a performance plateau where impressions failed to convert into meaningful view velocity or revenue growth.",
+      longDescription: "With 10,000 subscribers already in place, this psychology channel appeared established but had reached a performance plateau where impressions failed to convert into meaningful view velocity or revenue growth. Inconsistent publishing weakened algorithmic trust, while underperforming titles and thumbnails limited click-through rates despite clear audience interest in the subject matter. We approached the channel as a behavioral and algorithmic system, identifying evergreen psychology topics with proven viral potential and mapping them to curiosity-driven audience triggers. A consistent production workflow was implemented to restore momentum, supported by content frameworks that balanced educational value with recommendation-favorability. Titles, thumbnails, and metadata were re-engineered using performance data rather than intuition, and a discovery infrastructure was built to support both search and suggested traffic. This system-driven approach resulted in a single video reaching 285,600 organic views, subscriber growth from 10,000 to 14,000 in an accelerated timeframe, a significant revenue increase driven by improved watch time, and a sustainable growth trajectory beyond the project timeline.",
+      image: "/psych.jpeg",
+      tags: ["Educational Content", "Viral Topic Strategy", "Audience Psychology", "Click-Through Optimization", "Retention Engineering", "Consistent Publishing Systems", "SEO Optimization", "Algorithm-Aligned Content", "Revenue Growth", "Scalable Content Frameworks"],
       demoUrl: "https://myardmanager.com/",
       githubUrl: "#"
     },
     {
-      title: "School Website and LMS",
-      description: "School Website and LMS is a comprehensive, all-in-one student-teacher management system developed to modernize academic operations for schools, colleges, and educational institutions.",
-      longDescription: "School Website and LMS is a comprehensive, all-in-one student-teacher management system developed to streamline and modernize academic operations for schools, colleges, and educational institutions. This platform combines the functionality of a dynamic school website with a powerful Learning Management System (LMS), allowing administrators, teachers, students, and parents to stay connected in real time. Built using cutting-edge web technologies, it supports online admission processes, class scheduling, attendance tracking, fee management, grade reporting, and real-time communication via notifications and messaging. Teachers can create and manage courses, upload assignments and materials, host discussions, and monitor student progress through detailed analytics. Students benefit from a centralized dashboard for accessing class resources, submitting work, checking grades, and communicating with instructors. The platform also includes role-based dashboards, secure login access, and seamless mobile responsiveness for use across devices. With its user-friendly design and scalable architecture, this system empowers institutions to transition from paper-based operations to a fully digital learning ecosystem, enhancing both teaching effectiveness and student engagement.",
-      image: "/mockup 1.png",
-      tags: ["NextJS", "Tailwind", "Redux", "NodeJS", "ExpressJS", "MongoDB", "Vercel", "Docker", "Backblaze", "CI/CD"],
+      title: "Travel Channel — Brand Development & Monetization Infrastructure",
+      description: "This travel channel operated in a competitive niche with existing content but lacked the operational discipline and brand positioning required to convert views into meaningful business opportunities.",
+      longDescription: "This travel channel operated in a competitive niche with existing content but lacked the operational discipline and brand positioning required to convert views into meaningful business opportunities. Inconsistent publishing, uneven content quality, and minimal SEO implementation limited organic discoverability, while the absence of professional brand infrastructure prevented the channel from attracting sponsorships or partnerships. We implemented a comprehensive management and optimization framework that addressed both growth and monetization, establishing consistent publishing workflows, quality control benchmarks, and SEO-driven discovery across all content. The channel’s visual identity and packaging were standardized to build brand recognition and authority, while its positioning was refined to meet sponsor and tourism board expectations. As a result, the channel achieved consistent output without quality degradation, improved organic reach through structured SEO, increased audience engagement through professional presentation, and a sponsor-ready brand architecture capable of generating business leads and long-term monetization opportunities.",
+      image: "/travel.jpeg",
+      tags: ["Travel Content", "Brand Positioning", "Sponsor-Ready Channel", "SEO for Travel", "Channel Management", "Content Quality Control", "Monetization Infrastructure", "Business Development", "Organic Growth Systems", "Professional Media Branding"],
       demoUrl: "https://www.hiveschoolsystem.com/",
       githubUrl: "#"
     },
     {
-      title: "E-Commerce Platform",
-      description: "Brew Cart is a modern online platform created to empower local independent microbreweries and celebrate the growing indie beer culture.",
-      longDescription: "Brew Cart is a modern online platform created to empower local independent microbreweries and celebrate the growing indie beer culture. It enables users to explore and discover craft ales from nearby breweries as well as those across different regions. The platform is built with a ReactJS frontend for a dynamic and engaging user experience, paired with TailwindCSS for a sleek, responsive design. Redux is used for efficient state management, ensuring seamless personalization and beer discovery across the application. On the backend, Node.js powers the server-side logic, efficiently handling data requests related to breweries and their beer offerings. Brew Cart acts as a digital bridge between craft beer enthusiasts and independent brewers, making it easier to access and support high-quality, small-batch beers. By highlighting local talent and offering a curated discovery experience, Brew Cart contributes to the growth of the indie beer community and fosters deeper connections between brewers and their customers.",
-      image: "/mockup 4.png",
-      tags: ["React", "Node.js", "MongoDB", "TailwindCSS", "Redux", "ExpressJS"],
+      title: "Online Money-Making Channel — Complete Production & Growth Infrastructure",
+      description: "Operating in a highly saturated online money-making niche, this channel required more than isolated optimizations—it needed end-to-end operational infrastructure to compete at scale.",
+      longDescription: "Operating in a highly saturated online money-making niche, this channel required more than isolated optimizations—it needed end-to-end operational infrastructure to compete at scale. The owner lacked systems for validated topic selection, professional scripting and production, conversion-focused packaging, SEO implementation, and consistent publishing. We built a full-cycle automation framework covering research, scripting, editing, thumbnail design, metadata optimization, and scheduling, enabling consistent output without sacrificing quality. Topic intelligence was driven by trend monitoring and competitor analysis, while packaging and SEO were engineered to maximize discoverability in a competitive category. The result was a streamlined production system capable of sustained publishing, a high-retention video library optimized for algorithmic performance, and a scalable operational foundation designed to support predictable growth and long-term revenue generation in a crowded market.",
+      image: "/business 1.jpeg",
+      tags: ["YouTube Automation", "Online Business Niche", "Full-Cycle Production", "Scriptwriting Systems", "Thumbnail Engineering", "SEO & Metadata Optimization","Publishing Workflows","Scalable Operations","Competitive Niche Strategy","Revenue-Focused Growth"],
       demoUrl: "https://www.brewcart.co.uk/",
       githubUrl: "#"
     },
-    {
-      title: "Task Management App",
-      description: "Welcome to Quantum Sync, a company where technology, innovation, and opportunity come together. This portfolio is just a showcase of our capabilities in web, mobile, and SaaS development.",
-      longDescription: "Welcome to Quantum Sync — a company where technology, innovation, and opportunity come together. This portfolio is more than just a showcase of our capabilities in web, mobile, and SaaS development. It’s a reflection of our commitment to solving real-world problems for startups, growing businesses, and mission-driven organizations—especially across the United States. From sleek front-end interfaces to scalable back-end architectures, our work speaks to the quality and impact we strive for in every build. But what truly sets Quantum Sync apart is our commitment to nurturing the next generation of developers, designers, and thinkers. This website serves as a launchpad for students — a gateway into the world of modern software development through real-world experience, mentorship, and hands-on collaboration. We believe in learning by doing. That’s why we’ve built a culture where students don’t just observe—they contribute. Here, they gain practical exposure to high-impact projects, modern tech stacks, agile teamwork, and product thinking. Whether you’re a student looking to kickstart your tech career, or someone simply curious about the work we do, we invite you to explore our projects, learn more about our mission, and consider becoming a part of our growing community. At Quantum Sync, we don’t just build software—we build people, teams, and futures.",
-      image: "/1.png",
-      tags: ["NextJS", "Tailwind", "Redux", "NodeJS", "ExpressJS", "MongoDB", "Vercel", "Docker", "backplate", "CI/CD"],
-      demoUrl: "https://quantum-sync.vercel.app/",
-      githubUrl: "#"
-    }
-    ,
-    {
-      title: "Paste View",
-      description: "Pasteview is a modern and efficient pastebin platform designed to make sharing and storing text or code snippets simple and seamless.",
-      longDescription: "Pasteview is a modern and efficient pastebin platform designed to make sharing and storing text or code snippets simple and seamless. Unlike traditional paste sites, it emphasizes a clean, user-friendly interface and an intuitive experience tailored for developers. The frontend is developed using React.js and Next.js, delivering a fast and responsive user experience, while the backend, powered by Node.js, ensures reliable performance and smooth paste management. Key features of Pasteview include syntax highlighting for various programming languages, support for markdown formatting, and real-time preview capabilities. Users can also set expiration times for temporary pastes, create custom URLs for easy sharing, and switch between light and dark themes. Additionally, Pasteview offers clipboard integration and is fully optimized for mobile devices. Overall, Pasteview provides a developer-friendly environment for effortless collaboration and code sharing.",
-      image: "/pasteview-project.png",
-      tags: ["NextJS", "Tailwind", "Redux", "NodeJS", "ExpressJS", "MongoDB", "Vercel", "Docker", "CI/CD"],
-      demoUrl: "https://pasteview.com/",
-      githubUrl: "#"
-    }
+    // {
+    //   title: "Task Management App",
+    //   description: "Welcome to Quantum Sync, a company where technology, innovation, and opportunity come together. This portfolio is just a showcase of our capabilities in web, mobile, and SaaS development.",
+    //   longDescription: "Welcome to Quantum Sync — a company where technology, innovation, and opportunity come together. This portfolio is more than just a showcase of our capabilities in web, mobile, and SaaS development. It’s a reflection of our commitment to solving real-world problems for startups, growing businesses, and mission-driven organizations—especially across the United States. From sleek front-end interfaces to scalable back-end architectures, our work speaks to the quality and impact we strive for in every build. But what truly sets Quantum Sync apart is our commitment to nurturing the next generation of developers, designers, and thinkers. This website serves as a launchpad for students — a gateway into the world of modern software development through real-world experience, mentorship, and hands-on collaboration. We believe in learning by doing. That’s why we’ve built a culture where students don’t just observe—they contribute. Here, they gain practical exposure to high-impact projects, modern tech stacks, agile teamwork, and product thinking. Whether you’re a student looking to kickstart your tech career, or someone simply curious about the work we do, we invite you to explore our projects, learn more about our mission, and consider becoming a part of our growing community. At Quantum Sync, we don’t just build software—we build people, teams, and futures.",
+    //   image: "/1.png",
+    //   tags: ["NextJS", "Tailwind", "Redux", "NodeJS", "ExpressJS", "MongoDB", "Vercel", "Docker", "backplate", "CI/CD"],
+    //   demoUrl: "https://quantum-sync.vercel.app/",
+    //   githubUrl: "#"
+    // }
+    // ,
+    // {
+    //   title: "Paste View",
+    //   description: "Pasteview is a modern and efficient pastebin platform designed to make sharing and storing text or code snippets simple and seamless.",
+    //   longDescription: "Pasteview is a modern and efficient pastebin platform designed to make sharing and storing text or code snippets simple and seamless. Unlike traditional paste sites, it emphasizes a clean, user-friendly interface and an intuitive experience tailored for developers. The frontend is developed using React.js and Next.js, delivering a fast and responsive user experience, while the backend, powered by Node.js, ensures reliable performance and smooth paste management. Key features of Pasteview include syntax highlighting for various programming languages, support for markdown formatting, and real-time preview capabilities. Users can also set expiration times for temporary pastes, create custom URLs for easy sharing, and switch between light and dark themes. Additionally, Pasteview offers clipboard integration and is fully optimized for mobile devices. Overall, Pasteview provides a developer-friendly environment for effortless collaboration and code sharing.",
+    //   image: "/pasteview-project.png",
+    //   tags: ["NextJS", "Tailwind", "Redux", "NodeJS", "ExpressJS", "MongoDB", "Vercel", "Docker", "CI/CD"],
+    //   demoUrl: "https://pasteview.com/",
+    //   githubUrl: "#"
+    // }
   ];
 
   const openModal = (project) => {
@@ -90,10 +90,11 @@ const Projects = () => {
               Featured Work
             </motion.span>
             <h2 className="text-4xl md:text-5xl lg:text-6xl font-bold text-foreground mb-6 bg-gradient-to-r from-accent via-primary to-accent bg-300% animate-gradient-x bg-clip-text text-transparent">
-              Recent Projects
+              Case Studies
             </h2>
             <p className="text-xl text-muted-foreground/90 max-w-3xl mx-auto">
-              Some of my recent work and contributions that showcase my expertise in full-stack development
+              Channels are anonymized due to client confidentiality and NDAs<br></br>
+Detailed channel links and analytics are available during private consultations.
             </p>
           </motion.div>
           

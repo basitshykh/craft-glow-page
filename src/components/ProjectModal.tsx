@@ -1,6 +1,6 @@
 import { Button } from "@/components/ui/button";
 import { AnimatePresence, motion } from "framer-motion";
-import { ExternalLink, X } from "lucide-react";
+import { X } from "lucide-react";
 import { useEffect, useState } from "react";
 
 interface Project {
@@ -121,7 +121,7 @@ const ProjectModal = ({ project, isOpen, onClose }: ProjectModalProps) => {
             </div>
 
             {/* Bottom Buttons */}
-            <div className="border-t border-border/20 bg-background/95 backdrop-blur-sm p-4 sm:p-6 flex justify-end">
+            {/* <div className="border-t border-border/20 bg-background/95 backdrop-blur-sm p-4 sm:p-6 flex justify-end">
               <Button
                 variant="default"
                 className="h-10 px-4 text-sm font-medium hover:scale-[1.02] transition-all w-fit"
@@ -132,7 +132,7 @@ const ProjectModal = ({ project, isOpen, onClose }: ProjectModalProps) => {
                   Live Demo
                 </a>
               </Button>
-            </div>
+            </div> */}
           </motion.div>
         </motion.div>
       )}

@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import { Code, Database, Github, Linkedin, Mail, Server, Smartphone } from "lucide-react";
+import { Code, Database, Mail, Server, Smartphone } from "lucide-react";
 import { useEffect, useState } from "react";
 
 const About = () => {
@@ -22,32 +22,32 @@ const About = () => {
   const features = [
     {
       icon: Code,
-      title: "Frontend Development",
-      description: "HTML, CSS, SCSS, JavaScript, jQuery, React.js, Next.js, Redux for State Management, Bootstrap, Tailwind, Material-UI",
+      title: "YouTube Automation",
+      description: "Niche & competitor research, Content strategy & channel setup, AI scriptwriting & storytelling, AI voiceovers & video generation",
       gradient: "from-primary to-accent"
     },
     {
       icon: Smartphone,
-      title: "Mobile Development",
-      description: "Cross-platform apps with React Native, delivering native performance on iOS and Android.",
+      title: "AI Tools & Workflows",
+      description: "ChatGPT & AI scripting tools, AI voice generation platforms,AI video editing & automation tools, Workflow automation & optimization",
       gradient: "from-accent to-primary"
     },
     {
       icon: Server,
-      title: "Backend Development",
-      description: "Scalable APIs with Node.js, ExpressJS, Firebase and cloud infrastructure, Strapi, Restful Apis, JWT, Oauth, SQL and NoSQL(MongoDb) databases.",
+      title: "Monetization Strategy",
+      description: "YouTube SEO & retention optimization, Monetization strategies, Analytics tracking & performance optimization, Scalable content pipelines",
       gradient: "from-primary/80 to-accent/80"
     },
     {
       icon: Database,
-      title: "Tools",
-      description: "Experienced with version control (Git, GitHub, GitLab), VS Code, Project Management (Jira, Trello), API Testing (Postman), and Deployment Platforms (Vercel, Netlify, AWS, Google Cloud).",
+      title: "Tools & Platforms",
+      description: "YouTube Studio & Analytics, Automation & scheduling tools, Cloud-based workflows, Version control & productivity tools",
       gradient: "from-accent/80 to-primary/80"
     },
   ];
 
   return (
-    <section id="about" className="py-24 relative overflow-hidden">
+    <section id="about" className="py-24 relative overflow-hidden ">
       <div className="absolute inset-0 bg-gradient-to-b from-transparent via-primary/5 to-transparent"></div>
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
         <motion.div 
@@ -68,7 +68,8 @@ const About = () => {
             Crafting Digital Experiences
           </h2>
           <p className="text-xl text-muted-foreground/90 max-w-4xl mx-auto leading-relaxed">
-            Specializing in the MERN stack, with over 6 years of experience building dynamic, user-focused web and mobile applications. I deliver efficient, scalable digital solutions that drive results.
+             I’m Ahmad Majid, an AI YouTube Automation Expert focused on building scalable, faceless YouTube channels that generate consistent traffic, engagement, and long-term revenue.
+
           </p>
         </motion.div>
 
@@ -81,13 +82,16 @@ const About = () => {
             transition={{ duration: 0.6, delay: 0.2 }}
           >
             <p className="text-muted-foreground/90 text-lg leading-relaxed">
-              Throughout my career, I've contributed to a wide range of projects, from responsive websites to cross-platform mobile apps, with a strong focus on performance, clean code, and user experience. I also have hands-on experience with cloud deployment, ensuring applications are secure, reliable, and ready for scale.
+             
+
             </p>
             <p className="text-muted-foreground/90 text-lg leading-relaxed">
-              In addition to full-time roles, I've collaborated with international clients through freelance platforms like Fiverr and Upwork. These projects sharpened my ability to adapt, communicate effectively, and solve real-world problems across different industries.
+               Over the years, I’ve worked across multiple digital projects where performance, automation, and efficiency were non-negotiable. That experience led me to specialize in AI-driven YouTube systems—combining strategy, automation tools, and data-backed workflows to replace manual effort with smart execution.</p>
+            <p className="text-muted-foreground/90 text-lg leading-relaxed">
+              I help creators, entrepreneurs, and brands transform ideas into fully automated YouTube channels—handling everything from niche research and content planning to AI scripting, voiceovers, video production, SEO, and monetization.
             </p>
             <p className="text-muted-foreground/90 text-lg leading-relaxed">
-              I'm passionate about continuous learning and love turning complex challenges into smooth, functional solutions. Always open to exciting opportunities — let's build something great together!
+              Beyond execution, I believe in systems over shortcuts. Every channel I build is designed to scale, adapt, and perform consistently in the long run.
             </p>
             
             <motion.div 
@@ -97,9 +101,9 @@ const About = () => {
               transition={{ duration: 0.6, delay: 0.8 }}
             >
               {[
-                { icon: Github, href: "https://github.com/basitshykh", label: "GitHub" },
-                { icon: Linkedin, href: "https://www.linkedin.com/in/abdul-basit-shakeel/", label: "LinkedIn" },
-                { icon: Mail, href: "mailto:basitshykh8@gmail.com", label: "Email" },
+                // { icon: Github, href: "https://github.com/basitshykh", label: "GitHub" },
+                // { icon: Linkedin, href: "https://www.linkedin.com/in/abdul-basit-shakeel/", label: "LinkedIn" },
+                { icon: Mail, href: "mailto:creatoropsbusiness@gmail.com", label: "Email" },
               ].map(({ icon: Icon, href, label }) => (
                 <motion.a
                   key={label}

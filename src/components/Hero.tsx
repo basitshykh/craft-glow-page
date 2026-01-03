@@ -61,7 +61,7 @@ const Hero = () => {
           transition={{ duration: 0.8, ease: "easeOut" }}
         >
           <motion.div
-            className="mb-8"
+            className=""
             initial={{ opacity: 0, scale: 0.8 }}
             animate={{ opacity: 1, scale: 1 }}
             transition={{ duration: 1, delay: 0.1 }}
@@ -79,7 +79,7 @@ const Hero = () => {
           >
             Hi, I'm{" "}
             <span className="bg-gradient-to-r from-primary via-accent to-primary bg-300% animate-gradient-x bg-clip-text text-transparent">
-              Abdul Basit
+              Ahmad Majid
             </span>
           </motion.h1>
           
@@ -89,7 +89,7 @@ const Hero = () => {
             animate={{ opacity: 1 }}
             transition={{ duration: 0.8, delay: 0.4 }}
           >
-            Full Stack Web & Mobile Developer
+            AI Youtube Automation Expert
           </motion.h2>
           
           <motion.p 
@@ -98,7 +98,7 @@ const Hero = () => {
             animate={{ opacity: 1 }}
             transition={{ duration: 0.8, delay: 0.6 }}
           >
-            With over 6 years of hands-on experience, I specialize in building and delivering full-stack web applications. I create efficient, reliable solutions that balance performance with exceptional user experience.
+            I build fully automated, faceless YouTube channels that generate consistent views, engagement, and revenue. From niche research and scripting to AI voiceovers, video production, SEO, and monetization, I create end-to-end YouTube automation systems so you can scale without stress, burnout, or guesswork.
           </motion.p>
           
           <motion.div 
@@ -137,7 +137,7 @@ const Hero = () => {
           </motion.div>
           
           <motion.div
-            className="flex justify-center items-center gap-8"
+            className="flex justify-center items-center gap-8 mb-16"
             initial={{ opacity: 0 }}
             animate={{ opacity: 1 }}
             transition={{ duration: 0.6, delay: 1.0 }}

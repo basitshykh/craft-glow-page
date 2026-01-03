@@ -1,26 +1,26 @@
+import { AnimatePresence, motion } from "framer-motion";
 import { useState } from "react";
-import { motion, AnimatePresence } from "framer-motion";
 
 const testimonials = [
   {
     name: "Sarah Johnson",
-    role: "CEO, TechStart",
+    // role: "CEO, TechStart",
     company: "TechStart",
-    review: "Working with this developer was an absolute pleasure. They delivered a stunning website that exceeded our expectations and helped boost our online presence significantly. The attention to detail was remarkable.",
+    review: "Ahmad is great to work with. He is polite, professional and responsive. Would hire him again.",
     image: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=300&h=300&fit=crop&crop=face"
   },
   {
     name: "Michael Chen",
-    role: "Founder, DesignHub",
+    // role: "Founder, DesignHub",
     company: "DesignHub",
-    review: "Exceptional attention to detail and great communication throughout the project. The final product was exactly what we envisioned, delivered on time and within budget. Highly professional work!",
+    review: "Ahmad has been a huge asset to my YouTube channel strategy. His SEO insights are top-tier — structured, backed by research, and tailored to both algorithm trends and viewer psychology. He delivered a full report that not only diagnosed why a key Short underperformed, but also gave me a complete launch plan for an upcoming long-form video, complete with titles, tags, hashtags, funnel strategy, community engagement, and Short-form support content. Communication was excellent throughout, and he clearly cares about long-term growth, not just one-off tasks. Highly recommended if you’re looking for real strategic input and not just surface-level SEO.",
     image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=300&h=300&fit=crop&crop=face"
   },
   {
     name: "Emily Rodriguez",
-    role: "Marketing Director, GrowthCo",
+    // role: "Marketing Director, GrowthCo",
     company: "GrowthCo",
-    review: "The quality of work is outstanding. Our new web application has received amazing feedback from our users. I would highly recommend them for any web development project you have in mind!",
+    review: "He’s great at learning and picks up things very quickly. Also very cooperative and professional.",
     image: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=300&h=300&fit=crop&crop=face"
   }
 ];

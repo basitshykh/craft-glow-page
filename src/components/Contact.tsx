@@ -36,7 +36,7 @@ const Contact = () => {
     setSubmissionStatus("idle");
 
     try {
-      const response = await fetch("https://formspree.io/f/xblynpoe", {
+      const response = await fetch("https://formspree.io/f/xbdlzqzz", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
@@ -67,15 +67,15 @@ const Contact = () => {
     {
       icon: Mail,
       title: "Email",
-      value: "basitshykh8@gmail.com",
-      href: "mailto:basitshykh8@gmail.com",
+      value: "creatoropsbusiness@gmail.com",
+      href: "mailto:creatoropsbusiness@gmail.com",
       gradient: "from-primary to-accent"
     },
     {
       icon: Phone,
       title: "Phone",
-      value: "+923009653169",
-      href: "tel:+923009653169",
+      value: "+923299808218",
+      href: "tel:+923299808218",
       gradient: "from-accent to-primary"
     },
     {
